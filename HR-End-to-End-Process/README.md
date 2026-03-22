@@ -5,7 +5,6 @@ It shows how activities are carried out, where key decisions happen, and how dat
 The aim is to establish a clear view of the current state, highlight gaps, and support future improvements
 
 ## AS-IS Process Flow
-
 ![HR Process Flow](hr-as-is-process-flow.png)
 
 ## Scope
