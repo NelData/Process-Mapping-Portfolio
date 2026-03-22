@@ -6,7 +6,7 @@ The aim is to establish a clear view of the current state, highlight gaps, and s
 
 
 ## AS-IS Process Flow
-![HR Process Flow](./hr-as-is-process-flow.png)
+<img src="hr-as-is-process-flow.png" width="100%">
 
 
 ## Scope
