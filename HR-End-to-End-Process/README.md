@@ -8,6 +8,16 @@ The aim is to establish a clear view of the current state, highlight gaps, and s
 ## AS-IS Process Flow
 <img src="hr-as-is-process-flow.png" width="600">
 
+*Figure: AS-IS HR End-to-End Process Flow (Recruitment to Exit)*
+
+## Files Included
+- AS-IS Process Flow Diagram  
+- Data Mapping Table  
+- Supporting HR Process Data
+
+ ## Supporting Files
+- [Data Mapping Table](Data Mapping Table.xlsx)  
+- [HR Process Dataset](HR End-to-End Process_Recruitment_to_Exit.xlsx)
 
 ## Scope
 The work covers the full HR journey, including recruitment, hiring, onboarding, employee management, and exit processes
